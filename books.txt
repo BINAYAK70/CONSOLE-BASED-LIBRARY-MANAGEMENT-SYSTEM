@@ -1,0 +1,43 @@
+================================================================================
+Library: City Central Library
+Total Books: 5
+Available Books: 5
+================================================================================
+
+Book #1
+----------------------------------------
+Title: Effective Java
+Author: Joshua Bloch
+ISBN: 978-0-13-468599-1
+Status: Available
+
+Book #2
+----------------------------------------
+Title: Clean Code
+Author: Robert C. Martin
+ISBN: 978-0-13-235088-4
+Status: Available
+
+Book #3
+----------------------------------------
+Title: Design Patterns
+Author: Gang of Four
+ISBN: 978-0-20163-361-0
+Status: Available
+
+Book #4
+----------------------------------------
+Title: Harry Potter and the Sorcerer's Stone
+Author: J.K. Rowling
+ISBN: 978-0-43936-213-5
+Status: Available
+
+Book #5
+----------------------------------------
+Title: The Pragmatic Programmer
+Author: Andrew Hunt
+ISBN: 978-0-20161-622-4
+Status: Available
+
+================================================================================
+End of Library Records
